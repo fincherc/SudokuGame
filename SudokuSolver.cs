@@ -28,16 +28,25 @@ namespace SudokuGame
             var random = new Random();
             var viableBoard = goodBoard;
 
-            if (posX == 9)
-            {
-                viableBoard = true;
-                return (sudokuBoard, viableBoard);
-            }
+            //if (posX == 9)
+            //{
+            //    viableBoard = true;
+            //    return (sudokuBoard, viableBoard);
+            //}
 
             if (posY == 9)
             {
                 posY = 0;
-                FillBoard(sudokuBoard, posX + 1, posY, remainingNumbers, viableBoard);
+                if(posX + 1 == 9)
+                {
+                    viableBoard = true;
+                    return (sudokuBoard, viableBoard);
+                }
+                else 
+                { 
+                    return FillBoard(sudokuBoard, posX + 1, posY, remainingNumbers, viableBoard); 
+                }
+                
             }
 
             var sudokuRow = sudokuBoard[posX].ToList();
@@ -46,7 +55,7 @@ namespace SudokuGame
 
             if (sudokuBoard[posX][posY] != 0)
             {
-                FillBoard(sudokuBoard, posX, posY + 1, remainingNumbers, viableBoard);
+                return FillBoard(sudokuBoard, posX, posY + 1, remainingNumbers, viableBoard);
             }
             else
             {
@@ -72,20 +81,25 @@ namespace SudokuGame
                 }
                 else
                 {
-                    foreach(int cell in selectionNumbers.ToList())
+                    while(!viableBoard)
+                    //foreach(int cell in selectionNumbers.ToList())
                     {
-                        sudokuBoard[posX][posY] = cell;
-                        FillBoard(sudokuBoard, posX, posY + 1, remainingNumbers, viableBoard);
+                        if (selectionNumbers.Count == 0)
+                        {
+                            return (sudokuBoard, viableBoard);
+                        }
+                        var index = random.Next(selectionNumbers.Count);
+                        sudokuBoard[posX][posY] = selectionNumbers[index];
+                        (sudokuBoard, viableBoard) = FillBoard(sudokuBoard, posX, posY + 1, remainingNumbers, viableBoard);
 
                         if(!viableBoard)
                         {
-                            selectionNumbers.Remove(cell);
+                            selectionNumbers.Remove(selectionNumbers[index]);
                             sudokuBoard[posX][posY] = 0;
                         }
                     }
                 }
             }
-
             return (sudokuBoard, viableBoard);
         }
 
