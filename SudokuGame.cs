@@ -38,5 +38,10 @@ namespace SudokuGame
                 }
             }
         }
+
+        private void menuClose_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

@@ -22,17 +22,11 @@ namespace SudokuGame
 
         }
 
-        public (int[][], bool) FillBoard(int[][] sudokuBoard, int posX, int posY, List<int> sudokuNumbers, bool goodBoard)
+        public (int?[][], bool) FillBoard(int?[][] sudokuBoard, int posX, int posY, List<int?> sudokuNumbers, bool goodBoard)
         {
             var remainingNumbers = sudokuNumbers;
             var random = new Random();
             var viableBoard = goodBoard;
-
-            //if (posX == 9)
-            //{
-            //    viableBoard = true;
-            //    return (sudokuBoard, viableBoard);
-            //}
 
             if (posY == 9)
             {
@@ -53,28 +47,17 @@ namespace SudokuGame
             var sudokuColumn = GetColumnSudoku(sudokuBoard, posY);
             var sudokuGrid = GetGridSudoku(sudokuBoard, posX, posY);
 
-            if (sudokuBoard[posX][posY] != 0)
+            if (sudokuBoard[posX][posY] != null)
             {
                 return FillBoard(sudokuBoard, posX, posY + 1, remainingNumbers, viableBoard);
             }
             else
             {
-                /*
-                 * Before assigning a number, we check whether it is safe to assign. We basically check that same number
-                 * is not present in the current row, current column, and current 3X3 subgrid. After checking for safety,
-                 * we assign the number, and recursively check whether this assignment leads to a solution or not. If
-                 * the assignment (selectionNumbers) doesn't lead to a solution, then we try the next number for the
-                 * current empty cell. And if none of the numbers leads to a solution, we return false
-                 */
-
                 //Determine if there is a number we can select to put into the cell.
                 var selectionNumbers = sudokuNumbers.Except(sudokuRow).ToList();
                 selectionNumbers = selectionNumbers.Except(sudokuColumn).ToList();
                 selectionNumbers = selectionNumbers.Except(sudokuGrid).ToList();
 
-                
-                //If selectionNumbers is empty/0, the previous selection doesn't provide a solution, so we need to backtrack
-                //and choose a different number
                 if (selectionNumbers.Count == 0)
                 {
                     return (sudokuBoard, viableBoard);
@@ -82,7 +65,6 @@ namespace SudokuGame
                 else
                 {
                     while(!viableBoard)
-                    //foreach(int cell in selectionNumbers.ToList())
                     {
                         if (selectionNumbers.Count == 0)
                         {
@@ -95,7 +77,7 @@ namespace SudokuGame
                         if(!viableBoard)
                         {
                             selectionNumbers.Remove(selectionNumbers[index]);
-                            sudokuBoard[posX][posY] = 0;
+                            sudokuBoard[posX][posY] = null;
                         }
                     }
                 }
@@ -103,10 +85,10 @@ namespace SudokuGame
             return (sudokuBoard, viableBoard);
         }
 
-        public List<int> GetColumnSudoku(int[][] sudokuBoard, int posY)
+        public List<int?> GetColumnSudoku(int?[][] sudokuBoard, int posY)
         {
             int row = 0;
-            List<int> columnSudoku = new List<int>();
+            List<int?> columnSudoku = new List<int?>();
 
             while(row < 9)
             {
@@ -117,9 +99,9 @@ namespace SudokuGame
             return columnSudoku;
         }
 
-        public List<int> GetGridSudoku(int[][] sudokuBoard, int posX, int posY)
+        public List<int?> GetGridSudoku(int?[][] sudokuBoard, int posX, int posY)
         {
-            List<int> gridSudoku = new List<int>();
+            List<int?> gridSudoku = new List<int?>();
 
             if(posX < 3 && posY < 3)
             {

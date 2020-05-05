@@ -11,14 +11,14 @@ namespace SudokuGame
         static Random random = new Random();
         //Sudoku sudoku = new Sudoku();
         SudokuSolver solver = new SudokuSolver();
-        public int[][] FillGameBoard(int[][] board)
+        public int?[][] FillGameBoard(int?[][] board)
         {
             
             List<int> tempNum = new List<int>();
             var filledArea = board;
 
-            List<int> sudokuNumbers = new List<int>(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 });
-            List<int> gridNum = new List<int>();
+            List<int?> sudokuNumbers = new List<int?>(new int?[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 });
+            List<int?> gridNum = new List<int?>();
             bool playableBoard = false;
 
             //Entering the numbers square, row, and column
@@ -106,7 +106,7 @@ namespace SudokuGame
             return filledArea;
         }
 
-        private bool CheckSquares(int[][] sudokuBoard, int row, int column)
+        private bool CheckSquares(int?[][] sudokuBoard, int row, int column)
         {
             while(row < 3)
             {
@@ -131,7 +131,7 @@ namespace SudokuGame
 
         }
 
-        public bool CheckAllColumns(int[][] board)
+        private bool CheckAllColumns(int[][] board)
         {
             var columnAddition = 0;
             var _board = board;
@@ -151,6 +151,117 @@ namespace SudokuGame
             }
 
             return true;
+        }
+
+        public int?[][] BlankOutSquares(int?[][] board, string difficulty)
+        {
+            var boardDifficulty = difficulty;
+            var gameBoard = board;
+
+            switch(boardDifficulty.ToLower())
+            {
+                case "easy":
+                    //Blank out 33% of the board (27 squares)
+                    //3 per row
+                    for(int row = 0; row < gameBoard.Length; row++)
+                    {
+                        int blanksEntered = 0;
+                        for (int column = 0; column < gameBoard.Length; column++)
+                        {
+                            bool randomBool = random.Next(0, 2) > 0;
+
+                            if(blanksEntered < 1 && column < 3 && randomBool)
+                            {
+                                gameBoard[row][column] = null;
+                                blanksEntered++;
+                                continue;
+                            }
+                            else if(blanksEntered == 0 && column == 2)
+                            {
+                                gameBoard[row][column] = null;
+                                blanksEntered++;
+                                continue;
+                            }
+                            else if (blanksEntered < 2 && (column >= 3 && column < 6) && randomBool)
+                            {
+                                gameBoard[row][column] = null;
+                                blanksEntered++;
+                                continue;
+                            }
+                            else if (blanksEntered == 1 && column == 5 )
+                            {
+                                gameBoard[row][column] = null;
+                                blanksEntered++;
+                                continue;
+                            }
+                            else if (blanksEntered < 3 && (column >= 6 && column < 9) && randomBool)
+                            {
+                                gameBoard[row][column] = null;
+                                blanksEntered++;
+                                continue;
+                            }
+                            else if (blanksEntered == 2 && column == 8 )
+                            {
+                                gameBoard[row][column] = null;
+                                blanksEntered++;
+                                continue;
+                            }
+                        }
+                    }
+                    break;
+                case "medium":
+                    //Blank out 50-55% of the board (45 squares)
+                    //5 per row
+                    for (int row = 0; row < gameBoard.Length; row++)
+                    {
+                        int blanksEntered = 0;
+                        for (int column = 0; column < gameBoard.Length; column++)
+                        {
+                            if (blanksEntered == 5)
+                                break;
+                            bool randomBool = random.Next(0, 2) > 0;
+
+                            if (blanksEntered < 5 && randomBool && gameBoard[row][column] != null)
+                            {
+                                gameBoard[row][column] = null;
+                                blanksEntered++;
+                            }
+                            
+                            if(blanksEntered < 5 && column == 8)
+                            {
+                                column = -1;
+                            }
+                        }
+                    }
+                    break;
+                case "hard":
+                    //Blank out about 75% of the board (63 squares)
+                    //7 per row
+                    for (int row = 0; row < gameBoard.Length; row++)
+                    {
+                        int blanksEntered = 0;
+                        for (int column = 0; column < gameBoard.Length; column++)
+                        {
+                            if (blanksEntered == 7)
+                                break;
+                            bool randomBool = random.Next(0, 2) > 0;
+
+                            if (blanksEntered < 7 && randomBool && gameBoard[row][column] != null)
+                            {
+                                gameBoard[row][column] = null;
+                                blanksEntered++;
+                            }
+                            
+                            if (blanksEntered < 7 && column == 8)
+                            {
+                                column = -1;
+                            }
+                        }
+                    }
+                    break;
+            }
+
+            return gameBoard;
         }
     }
 }
