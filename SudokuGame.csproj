@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GameDifficultyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameDifficultyForm.Designer.cs">
+      <DependentUpon>GameDifficultyForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="SudokuGame.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -57,6 +63,9 @@
     <Compile Include="SudokuGenerator.cs" />
     <Compile Include="Sudoku.cs" />
     <Compile Include="SudokuSolver.cs" />
+    <EmbeddedResource Include="GameDifficultyForm.resx">
+      <DependentUpon>GameDifficultyForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SudokuGame.resx">
       <DependentUpon>SudokuGame.cs</DependentUpon>
     </EmbeddedResource>

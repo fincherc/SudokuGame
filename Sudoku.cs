@@ -13,9 +13,10 @@ namespace SudokuGame
         SudokuGenerator sudokuGenerator = new SudokuGenerator();
         //bool columnPassed = false;
 
-        public Sudoku()
+        public Sudoku(string difficulty)
         {
-            InitializeGameBoard("hard");
+            var _difficulty = difficulty;
+            InitializeGameBoard(_difficulty);
         }
 
         public void InitializeGameBoard(string difficulty)
@@ -31,7 +32,6 @@ namespace SudokuGame
             
 
             //Next steps:
-            //Blank entries on playing board based on difficulty (easy, medium, hard)
             //Add ability to adjust entries for blanked spaces
             //Add functionality to solve the board
             //Add functionality to see the moves played in the side window
