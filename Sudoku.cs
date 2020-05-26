@@ -9,14 +9,17 @@ namespace SudokuGame
     public class Sudoku
     {
         public int?[][] sudokuBoard = new int?[9][];
-        //List<int> sudokuNumbers = new List<int>(new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9} );
         SudokuGenerator sudokuGenerator = new SudokuGenerator();
-        //bool columnPassed = false;
 
         public Sudoku(string difficulty)
         {
             var _difficulty = difficulty;
             InitializeGameBoard(_difficulty);
+        }
+
+        public Sudoku()
+        {
+
         }
 
         public void InitializeGameBoard(string difficulty)
@@ -30,14 +33,7 @@ namespace SudokuGame
             sudokuGenerator.FillGameBoard(sudokuBoard);
             sudokuGenerator.BlankOutSquares(sudokuBoard, gameDifficulty);
 
-            //Next steps:
-            //Add functionality to solve the board
-            //Add functionality to see the moves played in the side window
+            //Optional: Add functionality to see the moves played in the side window
         }
-
-        //To-Do:
-        //Creating the board - Enter the column randomly from the squareArea list created above
-        //As you continue, enter a different number in the column that is different
-        
     }
 }

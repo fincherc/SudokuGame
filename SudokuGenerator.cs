@@ -126,33 +126,6 @@ namespace SudokuGame
             return true;
         }
 
-        private void CheckAllRows()
-        {
-
-        }
-
-        private bool CheckAllColumns(int[][] board)
-        {
-            var columnAddition = 0;
-            var _board = board;
-
-            for (int row = 0; row < _board.Length; row++)
-            {
-                for(int column = 0; column < _board.Length; column++)
-                {
-                    columnAddition = _board[row][column];
-                }
-
-                if(columnAddition != 45)
-                {
-                    //Return False. We need a new board
-                    return false;
-                }
-            }
-
-            return true;
-        }
-
         public int?[][] BlankOutSquares(int?[][] board, string difficulty)
         {
             var boardDifficulty = difficulty;
