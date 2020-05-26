@@ -31,87 +31,87 @@
             this.checkAnswerButton = new System.Windows.Forms.Button();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.label73 = new System.Windows.Forms.Label();
-            this.label74 = new System.Windows.Forms.Label();
-            this.label75 = new System.Windows.Forms.Label();
-            this.label76 = new System.Windows.Forms.Label();
-            this.label77 = new System.Windows.Forms.Label();
-            this.label78 = new System.Windows.Forms.Label();
-            this.label79 = new System.Windows.Forms.Label();
-            this.label80 = new System.Windows.Forms.Label();
-            this.label81 = new System.Windows.Forms.Label();
-            this.label64 = new System.Windows.Forms.Label();
-            this.label65 = new System.Windows.Forms.Label();
-            this.label66 = new System.Windows.Forms.Label();
-            this.label67 = new System.Windows.Forms.Label();
-            this.label68 = new System.Windows.Forms.Label();
-            this.label69 = new System.Windows.Forms.Label();
-            this.label70 = new System.Windows.Forms.Label();
-            this.label71 = new System.Windows.Forms.Label();
-            this.label72 = new System.Windows.Forms.Label();
-            this.label55 = new System.Windows.Forms.Label();
-            this.label56 = new System.Windows.Forms.Label();
-            this.label57 = new System.Windows.Forms.Label();
-            this.label58 = new System.Windows.Forms.Label();
-            this.label59 = new System.Windows.Forms.Label();
-            this.label60 = new System.Windows.Forms.Label();
-            this.label61 = new System.Windows.Forms.Label();
-            this.label62 = new System.Windows.Forms.Label();
-            this.label63 = new System.Windows.Forms.Label();
-            this.label46 = new System.Windows.Forms.Label();
-            this.label47 = new System.Windows.Forms.Label();
-            this.label48 = new System.Windows.Forms.Label();
-            this.label49 = new System.Windows.Forms.Label();
-            this.label50 = new System.Windows.Forms.Label();
-            this.label51 = new System.Windows.Forms.Label();
-            this.label52 = new System.Windows.Forms.Label();
-            this.label53 = new System.Windows.Forms.Label();
-            this.label54 = new System.Windows.Forms.Label();
-            this.label37 = new System.Windows.Forms.Label();
-            this.label38 = new System.Windows.Forms.Label();
-            this.label39 = new System.Windows.Forms.Label();
-            this.label40 = new System.Windows.Forms.Label();
-            this.label41 = new System.Windows.Forms.Label();
-            this.label42 = new System.Windows.Forms.Label();
-            this.label43 = new System.Windows.Forms.Label();
-            this.label44 = new System.Windows.Forms.Label();
-            this.label45 = new System.Windows.Forms.Label();
-            this.label28 = new System.Windows.Forms.Label();
-            this.label29 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
-            this.label31 = new System.Windows.Forms.Label();
-            this.label32 = new System.Windows.Forms.Label();
-            this.label33 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
-            this.label35 = new System.Windows.Forms.Label();
-            this.label36 = new System.Windows.Forms.Label();
-            this.label19 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
-            this.label24 = new System.Windows.Forms.Label();
-            this.label25 = new System.Windows.Forms.Label();
-            this.label26 = new System.Windows.Forms.Label();
-            this.label27 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
-            this.label16 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
+            this.textBox81 = new System.Windows.Forms.TextBox();
+            this.textBox80 = new System.Windows.Forms.TextBox();
+            this.textBox79 = new System.Windows.Forms.TextBox();
+            this.textBox78 = new System.Windows.Forms.TextBox();
+            this.textBox77 = new System.Windows.Forms.TextBox();
+            this.textBox76 = new System.Windows.Forms.TextBox();
+            this.textBox75 = new System.Windows.Forms.TextBox();
+            this.textBox74 = new System.Windows.Forms.TextBox();
+            this.textBox73 = new System.Windows.Forms.TextBox();
+            this.textBox72 = new System.Windows.Forms.TextBox();
+            this.textBox71 = new System.Windows.Forms.TextBox();
+            this.textBox70 = new System.Windows.Forms.TextBox();
+            this.textBox69 = new System.Windows.Forms.TextBox();
+            this.textBox68 = new System.Windows.Forms.TextBox();
+            this.textBox67 = new System.Windows.Forms.TextBox();
+            this.textBox66 = new System.Windows.Forms.TextBox();
+            this.textBox65 = new System.Windows.Forms.TextBox();
+            this.textBox64 = new System.Windows.Forms.TextBox();
+            this.textBox63 = new System.Windows.Forms.TextBox();
+            this.textBox62 = new System.Windows.Forms.TextBox();
+            this.textBox61 = new System.Windows.Forms.TextBox();
+            this.textBox60 = new System.Windows.Forms.TextBox();
+            this.textBox59 = new System.Windows.Forms.TextBox();
+            this.textBox58 = new System.Windows.Forms.TextBox();
+            this.textBox57 = new System.Windows.Forms.TextBox();
+            this.textBox56 = new System.Windows.Forms.TextBox();
+            this.textBox55 = new System.Windows.Forms.TextBox();
+            this.textBox54 = new System.Windows.Forms.TextBox();
+            this.textBox53 = new System.Windows.Forms.TextBox();
+            this.textBox52 = new System.Windows.Forms.TextBox();
+            this.textBox51 = new System.Windows.Forms.TextBox();
+            this.textBox50 = new System.Windows.Forms.TextBox();
+            this.textBox49 = new System.Windows.Forms.TextBox();
+            this.textBox48 = new System.Windows.Forms.TextBox();
+            this.textBox47 = new System.Windows.Forms.TextBox();
+            this.textBox46 = new System.Windows.Forms.TextBox();
+            this.textBox45 = new System.Windows.Forms.TextBox();
+            this.textBox44 = new System.Windows.Forms.TextBox();
+            this.textBox43 = new System.Windows.Forms.TextBox();
+            this.textBox42 = new System.Windows.Forms.TextBox();
+            this.textBox41 = new System.Windows.Forms.TextBox();
+            this.textBox40 = new System.Windows.Forms.TextBox();
+            this.textBox39 = new System.Windows.Forms.TextBox();
+            this.textBox38 = new System.Windows.Forms.TextBox();
+            this.textBox37 = new System.Windows.Forms.TextBox();
+            this.textBox36 = new System.Windows.Forms.TextBox();
+            this.textBox35 = new System.Windows.Forms.TextBox();
+            this.textBox34 = new System.Windows.Forms.TextBox();
+            this.textBox33 = new System.Windows.Forms.TextBox();
+            this.textBox32 = new System.Windows.Forms.TextBox();
+            this.textBox31 = new System.Windows.Forms.TextBox();
+            this.textBox30 = new System.Windows.Forms.TextBox();
+            this.textBox29 = new System.Windows.Forms.TextBox();
+            this.textBox28 = new System.Windows.Forms.TextBox();
+            this.textBox27 = new System.Windows.Forms.TextBox();
+            this.textBox26 = new System.Windows.Forms.TextBox();
+            this.textBox25 = new System.Windows.Forms.TextBox();
+            this.textBox24 = new System.Windows.Forms.TextBox();
+            this.textBox23 = new System.Windows.Forms.TextBox();
+            this.textBox22 = new System.Windows.Forms.TextBox();
+            this.textBox21 = new System.Windows.Forms.TextBox();
+            this.textBox20 = new System.Windows.Forms.TextBox();
+            this.textBox19 = new System.Windows.Forms.TextBox();
+            this.textBox18 = new System.Windows.Forms.TextBox();
+            this.textBox17 = new System.Windows.Forms.TextBox();
+            this.textBox16 = new System.Windows.Forms.TextBox();
+            this.textBox15 = new System.Windows.Forms.TextBox();
+            this.textBox14 = new System.Windows.Forms.TextBox();
+            this.textBox13 = new System.Windows.Forms.TextBox();
+            this.textBox12 = new System.Windows.Forms.TextBox();
+            this.textBox11 = new System.Windows.Forms.TextBox();
+            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.textBox8 = new System.Windows.Forms.TextBox();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.listView1 = new System.Windows.Forms.ListView();
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.solverButton = new System.Windows.Forms.Button();
@@ -151,6 +151,7 @@
             // 
             // tableLayoutPanel1
             // 
+            this.tableLayoutPanel1.CellBorderStyle = System.Windows.Forms.TableLayoutPanelCellBorderStyle.Single;
             this.tableLayoutPanel1.ColumnCount = 9;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
@@ -161,87 +162,87 @@
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel1.Controls.Add(this.label73, 0, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label74, 1, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label75, 2, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label76, 3, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label77, 4, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label78, 5, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label79, 6, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label80, 7, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label81, 8, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label64, 0, 7);
-            this.tableLayoutPanel1.Controls.Add(this.label65, 1, 7);
-            this.tableLayoutPanel1.Controls.Add(this.label66, 2, 7);
-            this.tableLayoutPanel1.Controls.Add(this.label67, 3, 7);
-            this.tableLayoutPanel1.Controls.Add(this.label68, 4, 7);
-            this.tableLayoutPanel1.Controls.Add(this.label69, 5, 7);
-            this.tableLayoutPanel1.Controls.Add(this.label70, 6, 7);
-            this.tableLayoutPanel1.Controls.Add(this.label71, 7, 7);
-            this.tableLayoutPanel1.Controls.Add(this.label72, 8, 7);
-            this.tableLayoutPanel1.Controls.Add(this.label55, 0, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label56, 1, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label57, 2, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label58, 3, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label59, 4, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label60, 5, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label61, 6, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label62, 7, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label63, 8, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label46, 0, 5);
-            this.tableLayoutPanel1.Controls.Add(this.label47, 1, 5);
-            this.tableLayoutPanel1.Controls.Add(this.label48, 2, 5);
-            this.tableLayoutPanel1.Controls.Add(this.label49, 3, 5);
-            this.tableLayoutPanel1.Controls.Add(this.label50, 4, 5);
-            this.tableLayoutPanel1.Controls.Add(this.label51, 5, 5);
-            this.tableLayoutPanel1.Controls.Add(this.label52, 6, 5);
-            this.tableLayoutPanel1.Controls.Add(this.label53, 7, 5);
-            this.tableLayoutPanel1.Controls.Add(this.label54, 8, 5);
-            this.tableLayoutPanel1.Controls.Add(this.label37, 0, 4);
-            this.tableLayoutPanel1.Controls.Add(this.label38, 1, 4);
-            this.tableLayoutPanel1.Controls.Add(this.label39, 2, 4);
-            this.tableLayoutPanel1.Controls.Add(this.label40, 3, 4);
-            this.tableLayoutPanel1.Controls.Add(this.label41, 4, 4);
-            this.tableLayoutPanel1.Controls.Add(this.label42, 5, 4);
-            this.tableLayoutPanel1.Controls.Add(this.label43, 6, 4);
-            this.tableLayoutPanel1.Controls.Add(this.label44, 7, 4);
-            this.tableLayoutPanel1.Controls.Add(this.label45, 8, 4);
-            this.tableLayoutPanel1.Controls.Add(this.label28, 0, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label29, 1, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label30, 2, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label31, 3, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label32, 4, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label33, 5, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label34, 6, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label35, 7, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label36, 8, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label19, 0, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label20, 1, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label21, 2, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label22, 3, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label23, 4, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label24, 5, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label25, 6, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label26, 7, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label27, 8, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label10, 0, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label11, 1, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label12, 2, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label13, 3, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label14, 4, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label15, 5, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label16, 6, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label17, 7, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label18, 8, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label1, 0, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label2, 1, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label3, 2, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label4, 3, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label5, 4, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label6, 5, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label7, 6, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label8, 7, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label9, 8, 0);
+            this.tableLayoutPanel1.Controls.Add(this.textBox81, 8, 8);
+            this.tableLayoutPanel1.Controls.Add(this.textBox80, 7, 8);
+            this.tableLayoutPanel1.Controls.Add(this.textBox79, 6, 8);
+            this.tableLayoutPanel1.Controls.Add(this.textBox78, 5, 8);
+            this.tableLayoutPanel1.Controls.Add(this.textBox77, 4, 8);
+            this.tableLayoutPanel1.Controls.Add(this.textBox76, 3, 8);
+            this.tableLayoutPanel1.Controls.Add(this.textBox75, 2, 8);
+            this.tableLayoutPanel1.Controls.Add(this.textBox74, 1, 8);
+            this.tableLayoutPanel1.Controls.Add(this.textBox73, 0, 8);
+            this.tableLayoutPanel1.Controls.Add(this.textBox72, 8, 7);
+            this.tableLayoutPanel1.Controls.Add(this.textBox71, 7, 7);
+            this.tableLayoutPanel1.Controls.Add(this.textBox70, 6, 7);
+            this.tableLayoutPanel1.Controls.Add(this.textBox69, 5, 7);
+            this.tableLayoutPanel1.Controls.Add(this.textBox68, 4, 7);
+            this.tableLayoutPanel1.Controls.Add(this.textBox67, 3, 7);
+            this.tableLayoutPanel1.Controls.Add(this.textBox66, 2, 7);
+            this.tableLayoutPanel1.Controls.Add(this.textBox65, 1, 7);
+            this.tableLayoutPanel1.Controls.Add(this.textBox64, 0, 7);
+            this.tableLayoutPanel1.Controls.Add(this.textBox63, 8, 6);
+            this.tableLayoutPanel1.Controls.Add(this.textBox62, 7, 6);
+            this.tableLayoutPanel1.Controls.Add(this.textBox61, 6, 6);
+            this.tableLayoutPanel1.Controls.Add(this.textBox60, 5, 6);
+            this.tableLayoutPanel1.Controls.Add(this.textBox59, 4, 6);
+            this.tableLayoutPanel1.Controls.Add(this.textBox58, 3, 6);
+            this.tableLayoutPanel1.Controls.Add(this.textBox57, 2, 6);
+            this.tableLayoutPanel1.Controls.Add(this.textBox56, 1, 6);
+            this.tableLayoutPanel1.Controls.Add(this.textBox55, 0, 6);
+            this.tableLayoutPanel1.Controls.Add(this.textBox54, 8, 5);
+            this.tableLayoutPanel1.Controls.Add(this.textBox53, 7, 5);
+            this.tableLayoutPanel1.Controls.Add(this.textBox52, 6, 5);
+            this.tableLayoutPanel1.Controls.Add(this.textBox51, 5, 5);
+            this.tableLayoutPanel1.Controls.Add(this.textBox50, 4, 5);
+            this.tableLayoutPanel1.Controls.Add(this.textBox49, 3, 5);
+            this.tableLayoutPanel1.Controls.Add(this.textBox48, 2, 5);
+            this.tableLayoutPanel1.Controls.Add(this.textBox47, 1, 5);
+            this.tableLayoutPanel1.Controls.Add(this.textBox46, 0, 5);
+            this.tableLayoutPanel1.Controls.Add(this.textBox45, 8, 4);
+            this.tableLayoutPanel1.Controls.Add(this.textBox44, 7, 4);
+            this.tableLayoutPanel1.Controls.Add(this.textBox43, 6, 4);
+            this.tableLayoutPanel1.Controls.Add(this.textBox42, 5, 4);
+            this.tableLayoutPanel1.Controls.Add(this.textBox41, 4, 4);
+            this.tableLayoutPanel1.Controls.Add(this.textBox40, 3, 4);
+            this.tableLayoutPanel1.Controls.Add(this.textBox39, 2, 4);
+            this.tableLayoutPanel1.Controls.Add(this.textBox38, 1, 4);
+            this.tableLayoutPanel1.Controls.Add(this.textBox37, 0, 4);
+            this.tableLayoutPanel1.Controls.Add(this.textBox36, 8, 3);
+            this.tableLayoutPanel1.Controls.Add(this.textBox35, 7, 3);
+            this.tableLayoutPanel1.Controls.Add(this.textBox34, 6, 3);
+            this.tableLayoutPanel1.Controls.Add(this.textBox33, 5, 3);
+            this.tableLayoutPanel1.Controls.Add(this.textBox32, 4, 3);
+            this.tableLayoutPanel1.Controls.Add(this.textBox31, 3, 3);
+            this.tableLayoutPanel1.Controls.Add(this.textBox30, 2, 3);
+            this.tableLayoutPanel1.Controls.Add(this.textBox29, 1, 3);
+            this.tableLayoutPanel1.Controls.Add(this.textBox28, 0, 3);
+            this.tableLayoutPanel1.Controls.Add(this.textBox27, 8, 2);
+            this.tableLayoutPanel1.Controls.Add(this.textBox26, 7, 2);
+            this.tableLayoutPanel1.Controls.Add(this.textBox25, 6, 2);
+            this.tableLayoutPanel1.Controls.Add(this.textBox24, 5, 2);
+            this.tableLayoutPanel1.Controls.Add(this.textBox23, 4, 2);
+            this.tableLayoutPanel1.Controls.Add(this.textBox22, 3, 2);
+            this.tableLayoutPanel1.Controls.Add(this.textBox21, 2, 2);
+            this.tableLayoutPanel1.Controls.Add(this.textBox20, 1, 2);
+            this.tableLayoutPanel1.Controls.Add(this.textBox19, 0, 2);
+            this.tableLayoutPanel1.Controls.Add(this.textBox18, 8, 1);
+            this.tableLayoutPanel1.Controls.Add(this.textBox17, 7, 1);
+            this.tableLayoutPanel1.Controls.Add(this.textBox16, 6, 1);
+            this.tableLayoutPanel1.Controls.Add(this.textBox15, 5, 1);
+            this.tableLayoutPanel1.Controls.Add(this.textBox14, 4, 1);
+            this.tableLayoutPanel1.Controls.Add(this.textBox13, 3, 1);
+            this.tableLayoutPanel1.Controls.Add(this.textBox12, 2, 1);
+            this.tableLayoutPanel1.Controls.Add(this.textBox11, 1, 1);
+            this.tableLayoutPanel1.Controls.Add(this.textBox10, 0, 1);
+            this.tableLayoutPanel1.Controls.Add(this.textBox9, 8, 0);
+            this.tableLayoutPanel1.Controls.Add(this.textBox8, 7, 0);
+            this.tableLayoutPanel1.Controls.Add(this.textBox7, 6, 0);
+            this.tableLayoutPanel1.Controls.Add(this.textBox6, 5, 0);
+            this.tableLayoutPanel1.Controls.Add(this.textBox5, 4, 0);
+            this.tableLayoutPanel1.Controls.Add(this.textBox4, 3, 0);
+            this.tableLayoutPanel1.Controls.Add(this.textBox3, 2, 0);
+            this.tableLayoutPanel1.Controls.Add(this.textBox2, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.textBox1, 0, 0);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -258,1139 +259,977 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(574, 530);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
-            // label73
-            // 
-            this.label73.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label73.AutoSize = true;
-            this.label73.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label73.Location = new System.Drawing.Point(3, 464);
-            this.label73.Name = "label73";
-            this.label73.Size = new System.Drawing.Size(57, 66);
-            this.label73.TabIndex = 72;
-            this.label73.Text = "label73";
-            this.label73.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label74
-            // 
-            this.label74.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label74.AutoSize = true;
-            this.label74.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label74.Location = new System.Drawing.Point(66, 464);
-            this.label74.Name = "label74";
-            this.label74.Size = new System.Drawing.Size(57, 66);
-            this.label74.TabIndex = 73;
-            this.label74.Text = "label74";
-            this.label74.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label75
-            // 
-            this.label75.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label75.AutoSize = true;
-            this.label75.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label75.Location = new System.Drawing.Point(129, 464);
-            this.label75.Name = "label75";
-            this.label75.Size = new System.Drawing.Size(57, 66);
-            this.label75.TabIndex = 74;
-            this.label75.Text = "label75";
-            this.label75.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label76
-            // 
-            this.label76.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label76.AutoSize = true;
-            this.label76.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label76.Location = new System.Drawing.Point(192, 464);
-            this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(57, 66);
-            this.label76.TabIndex = 75;
-            this.label76.Text = "label76";
-            this.label76.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label77
-            // 
-            this.label77.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label77.AutoSize = true;
-            this.label77.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label77.Location = new System.Drawing.Point(255, 464);
-            this.label77.Name = "label77";
-            this.label77.Size = new System.Drawing.Size(57, 66);
-            this.label77.TabIndex = 76;
-            this.label77.Text = "label77";
-            this.label77.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label78
-            // 
-            this.label78.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label78.AutoSize = true;
-            this.label78.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label78.Location = new System.Drawing.Point(318, 464);
-            this.label78.Name = "label78";
-            this.label78.Size = new System.Drawing.Size(57, 66);
-            this.label78.TabIndex = 77;
-            this.label78.Text = "label78";
-            this.label78.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label79
-            // 
-            this.label79.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label79.AutoSize = true;
-            this.label79.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label79.Location = new System.Drawing.Point(381, 464);
-            this.label79.Name = "label79";
-            this.label79.Size = new System.Drawing.Size(57, 66);
-            this.label79.TabIndex = 78;
-            this.label79.Text = "label79";
-            this.label79.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label80
-            // 
-            this.label80.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label80.AutoSize = true;
-            this.label80.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label80.Location = new System.Drawing.Point(444, 464);
-            this.label80.Name = "label80";
-            this.label80.Size = new System.Drawing.Size(57, 66);
-            this.label80.TabIndex = 79;
-            this.label80.Text = "label80";
-            this.label80.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label81
-            // 
-            this.label81.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label81.AutoSize = true;
-            this.label81.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label81.Location = new System.Drawing.Point(507, 464);
-            this.label81.Name = "label81";
-            this.label81.Size = new System.Drawing.Size(64, 66);
-            this.label81.TabIndex = 80;
-            this.label81.Text = "label81";
-            this.label81.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label64
-            // 
-            this.label64.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label64.AutoSize = true;
-            this.label64.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label64.Location = new System.Drawing.Point(3, 406);
-            this.label64.Name = "label64";
-            this.label64.Size = new System.Drawing.Size(57, 58);
-            this.label64.TabIndex = 63;
-            this.label64.Text = "label64";
-            this.label64.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label65
-            // 
-            this.label65.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label65.AutoSize = true;
-            this.label65.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label65.Location = new System.Drawing.Point(66, 406);
-            this.label65.Name = "label65";
-            this.label65.Size = new System.Drawing.Size(57, 58);
-            this.label65.TabIndex = 64;
-            this.label65.Text = "label65";
-            this.label65.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label66
-            // 
-            this.label66.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label66.AutoSize = true;
-            this.label66.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label66.Location = new System.Drawing.Point(129, 406);
-            this.label66.Name = "label66";
-            this.label66.Size = new System.Drawing.Size(57, 58);
-            this.label66.TabIndex = 65;
-            this.label66.Text = "label66";
-            this.label66.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label67
-            // 
-            this.label67.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label67.AutoSize = true;
-            this.label67.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label67.Location = new System.Drawing.Point(192, 406);
-            this.label67.Name = "label67";
-            this.label67.Size = new System.Drawing.Size(57, 58);
-            this.label67.TabIndex = 66;
-            this.label67.Text = "label67";
-            this.label67.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label68
-            // 
-            this.label68.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label68.AutoSize = true;
-            this.label68.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label68.Location = new System.Drawing.Point(255, 406);
-            this.label68.Name = "label68";
-            this.label68.Size = new System.Drawing.Size(57, 58);
-            this.label68.TabIndex = 67;
-            this.label68.Text = "label68";
-            this.label68.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label69
-            // 
-            this.label69.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label69.AutoSize = true;
-            this.label69.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label69.Location = new System.Drawing.Point(318, 406);
-            this.label69.Name = "label69";
-            this.label69.Size = new System.Drawing.Size(57, 58);
-            this.label69.TabIndex = 68;
-            this.label69.Text = "label69";
-            this.label69.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label70
-            // 
-            this.label70.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label70.AutoSize = true;
-            this.label70.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label70.Location = new System.Drawing.Point(381, 406);
-            this.label70.Name = "label70";
-            this.label70.Size = new System.Drawing.Size(57, 58);
-            this.label70.TabIndex = 69;
-            this.label70.Text = "label70";
-            this.label70.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label71
-            // 
-            this.label71.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label71.AutoSize = true;
-            this.label71.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label71.Location = new System.Drawing.Point(444, 406);
-            this.label71.Name = "label71";
-            this.label71.Size = new System.Drawing.Size(57, 58);
-            this.label71.TabIndex = 70;
-            this.label71.Text = "label71";
-            this.label71.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label72
-            // 
-            this.label72.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label72.AutoSize = true;
-            this.label72.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label72.Location = new System.Drawing.Point(507, 406);
-            this.label72.Name = "label72";
-            this.label72.Size = new System.Drawing.Size(64, 58);
-            this.label72.TabIndex = 71;
-            this.label72.Text = "label72";
-            this.label72.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label55
-            // 
-            this.label55.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label55.AutoSize = true;
-            this.label55.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label55.Location = new System.Drawing.Point(3, 348);
-            this.label55.Name = "label55";
-            this.label55.Size = new System.Drawing.Size(57, 58);
-            this.label55.TabIndex = 54;
-            this.label55.Text = "label55";
-            this.label55.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label56
-            // 
-            this.label56.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label56.AutoSize = true;
-            this.label56.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label56.Location = new System.Drawing.Point(66, 348);
-            this.label56.Name = "label56";
-            this.label56.Size = new System.Drawing.Size(57, 58);
-            this.label56.TabIndex = 55;
-            this.label56.Text = "label56";
-            this.label56.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label57
-            // 
-            this.label57.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label57.AutoSize = true;
-            this.label57.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label57.Location = new System.Drawing.Point(129, 348);
-            this.label57.Name = "label57";
-            this.label57.Size = new System.Drawing.Size(57, 58);
-            this.label57.TabIndex = 56;
-            this.label57.Text = "label57";
-            this.label57.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label58
-            // 
-            this.label58.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label58.AutoSize = true;
-            this.label58.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label58.Location = new System.Drawing.Point(192, 348);
-            this.label58.Name = "label58";
-            this.label58.Size = new System.Drawing.Size(57, 58);
-            this.label58.TabIndex = 57;
-            this.label58.Text = "label58";
-            this.label58.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label59
-            // 
-            this.label59.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label59.AutoSize = true;
-            this.label59.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label59.Location = new System.Drawing.Point(255, 348);
-            this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(57, 58);
-            this.label59.TabIndex = 58;
-            this.label59.Text = "label59";
-            this.label59.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label60
-            // 
-            this.label60.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label60.AutoSize = true;
-            this.label60.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label60.Location = new System.Drawing.Point(318, 348);
-            this.label60.Name = "label60";
-            this.label60.Size = new System.Drawing.Size(57, 58);
-            this.label60.TabIndex = 59;
-            this.label60.Text = "label60";
-            this.label60.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label61
-            // 
-            this.label61.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label61.AutoSize = true;
-            this.label61.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label61.Location = new System.Drawing.Point(381, 348);
-            this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(57, 58);
-            this.label61.TabIndex = 60;
-            this.label61.Text = "label61";
-            this.label61.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label62
-            // 
-            this.label62.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label62.AutoSize = true;
-            this.label62.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label62.Location = new System.Drawing.Point(444, 348);
-            this.label62.Name = "label62";
-            this.label62.Size = new System.Drawing.Size(57, 58);
-            this.label62.TabIndex = 61;
-            this.label62.Text = "label62";
-            this.label62.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label63
-            // 
-            this.label63.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label63.AutoSize = true;
-            this.label63.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label63.Location = new System.Drawing.Point(507, 348);
-            this.label63.Name = "label63";
-            this.label63.Size = new System.Drawing.Size(64, 58);
-            this.label63.TabIndex = 62;
-            this.label63.Text = "label63";
-            this.label63.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label46
-            // 
-            this.label46.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label46.AutoSize = true;
-            this.label46.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label46.Location = new System.Drawing.Point(3, 290);
-            this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(57, 58);
-            this.label46.TabIndex = 45;
-            this.label46.Text = "label46";
-            this.label46.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label47
-            // 
-            this.label47.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label47.AutoSize = true;
-            this.label47.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label47.Location = new System.Drawing.Point(66, 290);
-            this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(57, 58);
-            this.label47.TabIndex = 46;
-            this.label47.Text = "label47";
-            this.label47.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label48
-            // 
-            this.label48.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label48.AutoSize = true;
-            this.label48.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label48.Location = new System.Drawing.Point(129, 290);
-            this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(57, 58);
-            this.label48.TabIndex = 47;
-            this.label48.Text = "label48";
-            this.label48.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label49
-            // 
-            this.label49.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label49.AutoSize = true;
-            this.label49.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label49.Location = new System.Drawing.Point(192, 290);
-            this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(57, 58);
-            this.label49.TabIndex = 48;
-            this.label49.Text = "label49";
-            this.label49.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label50
-            // 
-            this.label50.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label50.AutoSize = true;
-            this.label50.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label50.Location = new System.Drawing.Point(255, 290);
-            this.label50.Name = "label50";
-            this.label50.Size = new System.Drawing.Size(57, 58);
-            this.label50.TabIndex = 49;
-            this.label50.Text = "label50";
-            this.label50.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label51
-            // 
-            this.label51.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label51.AutoSize = true;
-            this.label51.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label51.Location = new System.Drawing.Point(318, 290);
-            this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(57, 58);
-            this.label51.TabIndex = 50;
-            this.label51.Text = "label51";
-            this.label51.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label52
-            // 
-            this.label52.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label52.AutoSize = true;
-            this.label52.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label52.Location = new System.Drawing.Point(381, 290);
-            this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(57, 58);
-            this.label52.TabIndex = 51;
-            this.label52.Text = "label52";
-            this.label52.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label53
-            // 
-            this.label53.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label53.AutoSize = true;
-            this.label53.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label53.Location = new System.Drawing.Point(444, 290);
-            this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(57, 58);
-            this.label53.TabIndex = 52;
-            this.label53.Text = "label53";
-            this.label53.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label54
-            // 
-            this.label54.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label54.AutoSize = true;
-            this.label54.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label54.Location = new System.Drawing.Point(507, 290);
-            this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(64, 58);
-            this.label54.TabIndex = 53;
-            this.label54.Text = "label54";
-            this.label54.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label37
-            // 
-            this.label37.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label37.AutoSize = true;
-            this.label37.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label37.Location = new System.Drawing.Point(3, 232);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(57, 58);
-            this.label37.TabIndex = 36;
-            this.label37.Text = "label37";
-            this.label37.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label38
-            // 
-            this.label38.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label38.AutoSize = true;
-            this.label38.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label38.Location = new System.Drawing.Point(66, 232);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(57, 58);
-            this.label38.TabIndex = 37;
-            this.label38.Text = "label38";
-            this.label38.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label39
-            // 
-            this.label39.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label39.AutoSize = true;
-            this.label39.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label39.Location = new System.Drawing.Point(129, 232);
-            this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(57, 58);
-            this.label39.TabIndex = 38;
-            this.label39.Text = "label39";
-            this.label39.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label40
-            // 
-            this.label40.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label40.AutoSize = true;
-            this.label40.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label40.Location = new System.Drawing.Point(192, 232);
-            this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(57, 58);
-            this.label40.TabIndex = 39;
-            this.label40.Text = "label40";
-            this.label40.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label41
-            // 
-            this.label41.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label41.AutoSize = true;
-            this.label41.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label41.Location = new System.Drawing.Point(255, 232);
-            this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(57, 58);
-            this.label41.TabIndex = 40;
-            this.label41.Text = "label41";
-            this.label41.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label42
-            // 
-            this.label42.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label42.AutoSize = true;
-            this.label42.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label42.Location = new System.Drawing.Point(318, 232);
-            this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(57, 58);
-            this.label42.TabIndex = 41;
-            this.label42.Text = "label42";
-            this.label42.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label43
-            // 
-            this.label43.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label43.AutoSize = true;
-            this.label43.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label43.Location = new System.Drawing.Point(381, 232);
-            this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(57, 58);
-            this.label43.TabIndex = 42;
-            this.label43.Text = "label43";
-            this.label43.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label44
-            // 
-            this.label44.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label44.AutoSize = true;
-            this.label44.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label44.Location = new System.Drawing.Point(444, 232);
-            this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(57, 58);
-            this.label44.TabIndex = 43;
-            this.label44.Text = "label44";
-            this.label44.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label45
-            // 
-            this.label45.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label45.AutoSize = true;
-            this.label45.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label45.Location = new System.Drawing.Point(507, 232);
-            this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(64, 58);
-            this.label45.TabIndex = 44;
-            this.label45.Text = "label45";
-            this.label45.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label28
-            // 
-            this.label28.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label28.AutoSize = true;
-            this.label28.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label28.Location = new System.Drawing.Point(3, 174);
-            this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(57, 58);
-            this.label28.TabIndex = 27;
-            this.label28.Text = "label28";
-            this.label28.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label29
-            // 
-            this.label29.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label29.AutoSize = true;
-            this.label29.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label29.Location = new System.Drawing.Point(66, 174);
-            this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(57, 58);
-            this.label29.TabIndex = 28;
-            this.label29.Text = "label29";
-            this.label29.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label30
-            // 
-            this.label30.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label30.AutoSize = true;
-            this.label30.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label30.Location = new System.Drawing.Point(129, 174);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(57, 58);
-            this.label30.TabIndex = 29;
-            this.label30.Text = "label30";
-            this.label30.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label31
-            // 
-            this.label31.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label31.AutoSize = true;
-            this.label31.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label31.Location = new System.Drawing.Point(192, 174);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(57, 58);
-            this.label31.TabIndex = 30;
-            this.label31.Text = "label31";
-            this.label31.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label32
-            // 
-            this.label32.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label32.AutoSize = true;
-            this.label32.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label32.Location = new System.Drawing.Point(255, 174);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(57, 58);
-            this.label32.TabIndex = 31;
-            this.label32.Text = "label32";
-            this.label32.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label33
-            // 
-            this.label33.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label33.AutoSize = true;
-            this.label33.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label33.Location = new System.Drawing.Point(318, 174);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(57, 58);
-            this.label33.TabIndex = 32;
-            this.label33.Text = "label33";
-            this.label33.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label34
-            // 
-            this.label34.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label34.AutoSize = true;
-            this.label34.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label34.Location = new System.Drawing.Point(381, 174);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(57, 58);
-            this.label34.TabIndex = 33;
-            this.label34.Text = "label34";
-            this.label34.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label35
-            // 
-            this.label35.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label35.AutoSize = true;
-            this.label35.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label35.Location = new System.Drawing.Point(444, 174);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(57, 58);
-            this.label35.TabIndex = 34;
-            this.label35.Text = "label35";
-            this.label35.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label36
-            // 
-            this.label36.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label36.AutoSize = true;
-            this.label36.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label36.Location = new System.Drawing.Point(507, 174);
-            this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(64, 58);
-            this.label36.TabIndex = 35;
-            this.label36.Text = "label36";
-            this.label36.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label19
-            // 
-            this.label19.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label19.AutoSize = true;
-            this.label19.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label19.Location = new System.Drawing.Point(3, 116);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(57, 58);
-            this.label19.TabIndex = 18;
-            this.label19.Text = "label19";
-            this.label19.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label20
-            // 
-            this.label20.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label20.AutoSize = true;
-            this.label20.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label20.Location = new System.Drawing.Point(66, 116);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(57, 58);
-            this.label20.TabIndex = 19;
-            this.label20.Text = "label20";
-            this.label20.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label21
-            // 
-            this.label21.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label21.AutoSize = true;
-            this.label21.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label21.Location = new System.Drawing.Point(129, 116);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(57, 58);
-            this.label21.TabIndex = 20;
-            this.label21.Text = "label21";
-            this.label21.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label22
-            // 
-            this.label22.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label22.AutoSize = true;
-            this.label22.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label22.Location = new System.Drawing.Point(192, 116);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(57, 58);
-            this.label22.TabIndex = 21;
-            this.label22.Text = "label22";
-            this.label22.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label23
-            // 
-            this.label23.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label23.AutoSize = true;
-            this.label23.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label23.Location = new System.Drawing.Point(255, 116);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(57, 58);
-            this.label23.TabIndex = 22;
-            this.label23.Text = "label23";
-            this.label23.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label24
-            // 
-            this.label24.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label24.AutoSize = true;
-            this.label24.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label24.Location = new System.Drawing.Point(318, 116);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(57, 58);
-            this.label24.TabIndex = 23;
-            this.label24.Text = "label24";
-            this.label24.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label25
-            // 
-            this.label25.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label25.AutoSize = true;
-            this.label25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label25.Location = new System.Drawing.Point(381, 116);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(57, 58);
-            this.label25.TabIndex = 24;
-            this.label25.Text = "label25";
-            this.label25.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label26
-            // 
-            this.label26.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label26.AutoSize = true;
-            this.label26.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label26.Location = new System.Drawing.Point(444, 116);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(57, 58);
-            this.label26.TabIndex = 25;
-            this.label26.Text = "label26";
-            this.label26.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label27
-            // 
-            this.label27.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label27.AutoSize = true;
-            this.label27.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label27.Location = new System.Drawing.Point(507, 116);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(64, 58);
-            this.label27.TabIndex = 26;
-            this.label27.Text = "label27";
-            this.label27.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label10
-            // 
-            this.label10.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label10.AutoSize = true;
-            this.label10.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label10.Location = new System.Drawing.Point(3, 58);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(57, 58);
-            this.label10.TabIndex = 9;
-            this.label10.Text = "label10";
-            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label11
-            // 
-            this.label11.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label11.AutoSize = true;
-            this.label11.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label11.Location = new System.Drawing.Point(66, 58);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(57, 58);
-            this.label11.TabIndex = 10;
-            this.label11.Text = "label11";
-            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label12
-            // 
-            this.label12.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label12.AutoSize = true;
-            this.label12.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label12.Location = new System.Drawing.Point(129, 58);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(57, 58);
-            this.label12.TabIndex = 11;
-            this.label12.Text = "label12";
-            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label13
-            // 
-            this.label13.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label13.AutoSize = true;
-            this.label13.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label13.Location = new System.Drawing.Point(192, 58);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(57, 58);
-            this.label13.TabIndex = 12;
-            this.label13.Text = "label13";
-            this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label14
-            // 
-            this.label14.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label14.AutoSize = true;
-            this.label14.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label14.Location = new System.Drawing.Point(255, 58);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(57, 58);
-            this.label14.TabIndex = 13;
-            this.label14.Text = "label14";
-            this.label14.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label15
-            // 
-            this.label15.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label15.AutoSize = true;
-            this.label15.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label15.Location = new System.Drawing.Point(318, 58);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(57, 58);
-            this.label15.TabIndex = 14;
-            this.label15.Text = "label15";
-            this.label15.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label16
-            // 
-            this.label16.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label16.AutoSize = true;
-            this.label16.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label16.Location = new System.Drawing.Point(381, 58);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(57, 58);
-            this.label16.TabIndex = 15;
-            this.label16.Text = "label16";
-            this.label16.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label17
-            // 
-            this.label17.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label17.AutoSize = true;
-            this.label17.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label17.Location = new System.Drawing.Point(444, 58);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(57, 58);
-            this.label17.TabIndex = 16;
-            this.label17.Text = "label17";
-            this.label17.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label18
-            // 
-            this.label18.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label18.AutoSize = true;
-            this.label18.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label18.Location = new System.Drawing.Point(507, 58);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(64, 58);
-            this.label18.TabIndex = 17;
-            this.label18.Text = "label18";
-            this.label18.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label1
-            // 
-            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label1.AutoSize = true;
-            this.label1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label1.Location = new System.Drawing.Point(3, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(57, 58);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "label1";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label2
-            // 
-            this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label2.AutoSize = true;
-            this.label2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label2.Location = new System.Drawing.Point(66, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(57, 58);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "label2";
-            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label3
-            // 
-            this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label3.AutoSize = true;
-            this.label3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label3.Location = new System.Drawing.Point(129, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(57, 58);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "label3";
-            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label4
-            // 
-            this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label4.AutoSize = true;
-            this.label4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label4.Location = new System.Drawing.Point(192, 0);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(57, 58);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "label4";
-            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label5
-            // 
-            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label5.AutoSize = true;
-            this.label5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label5.Location = new System.Drawing.Point(255, 0);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(57, 58);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "label5";
-            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label6
-            // 
-            this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label6.AutoSize = true;
-            this.label6.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label6.Location = new System.Drawing.Point(318, 0);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(57, 58);
-            this.label6.TabIndex = 5;
-            this.label6.Text = "label6";
-            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label7
-            // 
-            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label7.AutoSize = true;
-            this.label7.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label7.Location = new System.Drawing.Point(381, 0);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(57, 58);
-            this.label7.TabIndex = 6;
-            this.label7.Text = "label7";
-            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label8
-            // 
-            this.label8.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label8.AutoSize = true;
-            this.label8.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label8.Location = new System.Drawing.Point(444, 0);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(57, 58);
-            this.label8.TabIndex = 7;
-            this.label8.Text = "label8";
-            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label9
-            // 
-            this.label9.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label9.AutoSize = true;
-            this.label9.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label9.Location = new System.Drawing.Point(507, 0);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(64, 58);
-            this.label9.TabIndex = 8;
-            this.label9.Text = "label9";
-            this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // textBox81
+            // 
+            this.textBox81.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox81.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox81.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox81.Location = new System.Drawing.Point(510, 490);
+            this.textBox81.Name = "textBox81";
+            this.textBox81.Size = new System.Drawing.Size(57, 13);
+            this.textBox81.TabIndex = 161;
+            this.textBox81.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox81.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox80
+            // 
+            this.textBox80.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox80.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox80.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox80.Location = new System.Drawing.Point(445, 490);
+            this.textBox80.Name = "textBox80";
+            this.textBox80.Size = new System.Drawing.Size(56, 13);
+            this.textBox80.TabIndex = 160;
+            this.textBox80.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox80.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox79
+            // 
+            this.textBox79.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox79.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox79.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox79.Location = new System.Drawing.Point(382, 490);
+            this.textBox79.Name = "textBox79";
+            this.textBox79.Size = new System.Drawing.Size(56, 13);
+            this.textBox79.TabIndex = 159;
+            this.textBox79.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox79.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox78
+            // 
+            this.textBox78.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox78.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox78.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox78.Location = new System.Drawing.Point(319, 490);
+            this.textBox78.Name = "textBox78";
+            this.textBox78.Size = new System.Drawing.Size(56, 13);
+            this.textBox78.TabIndex = 158;
+            this.textBox78.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox78.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox77
+            // 
+            this.textBox77.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox77.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox77.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox77.Location = new System.Drawing.Point(256, 490);
+            this.textBox77.Name = "textBox77";
+            this.textBox77.Size = new System.Drawing.Size(56, 13);
+            this.textBox77.TabIndex = 157;
+            this.textBox77.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox77.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox76
+            // 
+            this.textBox76.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox76.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox76.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox76.Location = new System.Drawing.Point(193, 490);
+            this.textBox76.Name = "textBox76";
+            this.textBox76.Size = new System.Drawing.Size(56, 13);
+            this.textBox76.TabIndex = 156;
+            this.textBox76.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox76.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox75
+            // 
+            this.textBox75.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox75.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox75.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox75.Location = new System.Drawing.Point(130, 490);
+            this.textBox75.Name = "textBox75";
+            this.textBox75.Size = new System.Drawing.Size(56, 13);
+            this.textBox75.TabIndex = 155;
+            this.textBox75.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox75.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox74
+            // 
+            this.textBox74.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox74.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox74.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox74.Location = new System.Drawing.Point(67, 490);
+            this.textBox74.Name = "textBox74";
+            this.textBox74.Size = new System.Drawing.Size(56, 13);
+            this.textBox74.TabIndex = 154;
+            this.textBox74.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox74.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox73
+            // 
+            this.textBox73.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox73.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox73.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox73.Location = new System.Drawing.Point(4, 490);
+            this.textBox73.Name = "textBox73";
+            this.textBox73.Size = new System.Drawing.Size(56, 13);
+            this.textBox73.TabIndex = 153;
+            this.textBox73.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox73.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox72
+            // 
+            this.textBox72.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox72.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox72.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox72.Location = new System.Drawing.Point(510, 429);
+            this.textBox72.Name = "textBox72";
+            this.textBox72.Size = new System.Drawing.Size(57, 13);
+            this.textBox72.TabIndex = 152;
+            this.textBox72.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox72.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox71
+            // 
+            this.textBox71.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox71.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox71.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox71.Location = new System.Drawing.Point(445, 429);
+            this.textBox71.Name = "textBox71";
+            this.textBox71.Size = new System.Drawing.Size(56, 13);
+            this.textBox71.TabIndex = 151;
+            this.textBox71.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox71.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox70
+            // 
+            this.textBox70.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox70.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox70.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox70.Location = new System.Drawing.Point(382, 429);
+            this.textBox70.Name = "textBox70";
+            this.textBox70.Size = new System.Drawing.Size(56, 13);
+            this.textBox70.TabIndex = 150;
+            this.textBox70.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox70.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox69
+            // 
+            this.textBox69.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox69.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox69.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox69.Location = new System.Drawing.Point(319, 429);
+            this.textBox69.Name = "textBox69";
+            this.textBox69.Size = new System.Drawing.Size(56, 13);
+            this.textBox69.TabIndex = 149;
+            this.textBox69.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox69.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox68
+            // 
+            this.textBox68.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox68.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox68.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox68.Location = new System.Drawing.Point(256, 429);
+            this.textBox68.Name = "textBox68";
+            this.textBox68.Size = new System.Drawing.Size(56, 13);
+            this.textBox68.TabIndex = 148;
+            this.textBox68.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox68.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox67
+            // 
+            this.textBox67.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox67.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox67.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox67.Location = new System.Drawing.Point(193, 429);
+            this.textBox67.Name = "textBox67";
+            this.textBox67.Size = new System.Drawing.Size(56, 13);
+            this.textBox67.TabIndex = 147;
+            this.textBox67.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox67.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox66
+            // 
+            this.textBox66.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox66.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox66.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox66.Location = new System.Drawing.Point(130, 429);
+            this.textBox66.Name = "textBox66";
+            this.textBox66.Size = new System.Drawing.Size(56, 13);
+            this.textBox66.TabIndex = 146;
+            this.textBox66.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox66.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox65
+            // 
+            this.textBox65.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox65.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox65.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox65.Location = new System.Drawing.Point(67, 429);
+            this.textBox65.Name = "textBox65";
+            this.textBox65.Size = new System.Drawing.Size(56, 13);
+            this.textBox65.TabIndex = 145;
+            this.textBox65.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox65.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox64
+            // 
+            this.textBox64.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox64.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox64.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox64.Location = new System.Drawing.Point(4, 429);
+            this.textBox64.Name = "textBox64";
+            this.textBox64.Size = new System.Drawing.Size(56, 13);
+            this.textBox64.TabIndex = 144;
+            this.textBox64.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox64.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox63
+            // 
+            this.textBox63.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox63.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox63.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox63.Location = new System.Drawing.Point(510, 371);
+            this.textBox63.Name = "textBox63";
+            this.textBox63.Size = new System.Drawing.Size(57, 13);
+            this.textBox63.TabIndex = 143;
+            this.textBox63.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox63.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox62
+            // 
+            this.textBox62.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox62.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox62.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox62.Location = new System.Drawing.Point(445, 371);
+            this.textBox62.Name = "textBox62";
+            this.textBox62.Size = new System.Drawing.Size(56, 13);
+            this.textBox62.TabIndex = 142;
+            this.textBox62.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox62.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox61
+            // 
+            this.textBox61.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox61.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox61.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox61.Location = new System.Drawing.Point(382, 371);
+            this.textBox61.Name = "textBox61";
+            this.textBox61.Size = new System.Drawing.Size(56, 13);
+            this.textBox61.TabIndex = 141;
+            this.textBox61.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox61.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox60
+            // 
+            this.textBox60.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox60.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox60.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox60.Location = new System.Drawing.Point(319, 371);
+            this.textBox60.Name = "textBox60";
+            this.textBox60.Size = new System.Drawing.Size(56, 13);
+            this.textBox60.TabIndex = 140;
+            this.textBox60.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox60.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox59
+            // 
+            this.textBox59.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox59.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox59.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox59.Location = new System.Drawing.Point(256, 371);
+            this.textBox59.Name = "textBox59";
+            this.textBox59.Size = new System.Drawing.Size(56, 13);
+            this.textBox59.TabIndex = 139;
+            this.textBox59.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox59.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox58
+            // 
+            this.textBox58.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox58.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox58.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox58.Location = new System.Drawing.Point(193, 371);
+            this.textBox58.Name = "textBox58";
+            this.textBox58.Size = new System.Drawing.Size(56, 13);
+            this.textBox58.TabIndex = 138;
+            this.textBox58.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox58.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox57
+            // 
+            this.textBox57.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox57.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox57.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox57.Location = new System.Drawing.Point(130, 371);
+            this.textBox57.Name = "textBox57";
+            this.textBox57.Size = new System.Drawing.Size(56, 13);
+            this.textBox57.TabIndex = 137;
+            this.textBox57.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox57.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox56
+            // 
+            this.textBox56.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox56.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox56.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox56.Location = new System.Drawing.Point(67, 371);
+            this.textBox56.Name = "textBox56";
+            this.textBox56.Size = new System.Drawing.Size(56, 13);
+            this.textBox56.TabIndex = 136;
+            this.textBox56.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox56.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox55
+            // 
+            this.textBox55.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox55.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox55.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox55.Location = new System.Drawing.Point(4, 371);
+            this.textBox55.Name = "textBox55";
+            this.textBox55.Size = new System.Drawing.Size(56, 13);
+            this.textBox55.TabIndex = 135;
+            this.textBox55.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox55.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox54
+            // 
+            this.textBox54.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox54.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox54.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox54.Location = new System.Drawing.Point(510, 313);
+            this.textBox54.Name = "textBox54";
+            this.textBox54.Size = new System.Drawing.Size(57, 13);
+            this.textBox54.TabIndex = 134;
+            this.textBox54.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox54.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox53
+            // 
+            this.textBox53.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox53.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox53.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox53.Location = new System.Drawing.Point(445, 313);
+            this.textBox53.Name = "textBox53";
+            this.textBox53.Size = new System.Drawing.Size(56, 13);
+            this.textBox53.TabIndex = 133;
+            this.textBox53.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox53.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox52
+            // 
+            this.textBox52.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox52.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox52.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox52.Location = new System.Drawing.Point(382, 313);
+            this.textBox52.Name = "textBox52";
+            this.textBox52.Size = new System.Drawing.Size(56, 13);
+            this.textBox52.TabIndex = 132;
+            this.textBox52.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox52.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox51
+            // 
+            this.textBox51.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox51.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox51.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox51.Location = new System.Drawing.Point(319, 313);
+            this.textBox51.Name = "textBox51";
+            this.textBox51.Size = new System.Drawing.Size(56, 13);
+            this.textBox51.TabIndex = 131;
+            this.textBox51.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox51.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox50
+            // 
+            this.textBox50.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox50.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox50.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox50.Location = new System.Drawing.Point(256, 313);
+            this.textBox50.Name = "textBox50";
+            this.textBox50.Size = new System.Drawing.Size(56, 13);
+            this.textBox50.TabIndex = 130;
+            this.textBox50.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox50.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox49
+            // 
+            this.textBox49.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox49.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox49.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox49.Location = new System.Drawing.Point(193, 313);
+            this.textBox49.Name = "textBox49";
+            this.textBox49.Size = new System.Drawing.Size(56, 13);
+            this.textBox49.TabIndex = 129;
+            this.textBox49.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox49.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox48
+            // 
+            this.textBox48.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox48.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox48.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox48.Location = new System.Drawing.Point(130, 313);
+            this.textBox48.Name = "textBox48";
+            this.textBox48.Size = new System.Drawing.Size(56, 13);
+            this.textBox48.TabIndex = 128;
+            this.textBox48.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox48.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox47
+            // 
+            this.textBox47.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox47.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox47.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox47.Location = new System.Drawing.Point(67, 313);
+            this.textBox47.Name = "textBox47";
+            this.textBox47.Size = new System.Drawing.Size(56, 13);
+            this.textBox47.TabIndex = 127;
+            this.textBox47.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox47.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox46
+            // 
+            this.textBox46.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox46.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox46.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox46.Location = new System.Drawing.Point(4, 313);
+            this.textBox46.Name = "textBox46";
+            this.textBox46.Size = new System.Drawing.Size(56, 13);
+            this.textBox46.TabIndex = 126;
+            this.textBox46.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox46.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox45
+            // 
+            this.textBox45.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox45.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox45.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox45.Location = new System.Drawing.Point(510, 255);
+            this.textBox45.Name = "textBox45";
+            this.textBox45.Size = new System.Drawing.Size(57, 13);
+            this.textBox45.TabIndex = 125;
+            this.textBox45.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox45.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox44
+            // 
+            this.textBox44.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox44.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox44.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox44.Location = new System.Drawing.Point(445, 255);
+            this.textBox44.Name = "textBox44";
+            this.textBox44.Size = new System.Drawing.Size(56, 13);
+            this.textBox44.TabIndex = 124;
+            this.textBox44.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox44.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox43
+            // 
+            this.textBox43.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox43.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox43.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox43.Location = new System.Drawing.Point(382, 255);
+            this.textBox43.Name = "textBox43";
+            this.textBox43.Size = new System.Drawing.Size(56, 13);
+            this.textBox43.TabIndex = 123;
+            this.textBox43.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox43.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox42
+            // 
+            this.textBox42.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox42.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox42.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox42.Location = new System.Drawing.Point(319, 255);
+            this.textBox42.Name = "textBox42";
+            this.textBox42.Size = new System.Drawing.Size(56, 13);
+            this.textBox42.TabIndex = 122;
+            this.textBox42.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox42.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox41
+            // 
+            this.textBox41.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox41.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox41.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox41.Location = new System.Drawing.Point(256, 255);
+            this.textBox41.Name = "textBox41";
+            this.textBox41.Size = new System.Drawing.Size(56, 13);
+            this.textBox41.TabIndex = 121;
+            this.textBox41.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox41.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox40
+            // 
+            this.textBox40.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox40.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox40.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox40.Location = new System.Drawing.Point(193, 255);
+            this.textBox40.Name = "textBox40";
+            this.textBox40.Size = new System.Drawing.Size(56, 13);
+            this.textBox40.TabIndex = 120;
+            this.textBox40.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox40.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox39
+            // 
+            this.textBox39.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox39.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox39.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox39.Location = new System.Drawing.Point(130, 255);
+            this.textBox39.Name = "textBox39";
+            this.textBox39.Size = new System.Drawing.Size(56, 13);
+            this.textBox39.TabIndex = 119;
+            this.textBox39.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox39.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox38
+            // 
+            this.textBox38.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox38.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox38.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox38.Location = new System.Drawing.Point(67, 255);
+            this.textBox38.Name = "textBox38";
+            this.textBox38.Size = new System.Drawing.Size(56, 13);
+            this.textBox38.TabIndex = 118;
+            this.textBox38.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox38.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox37
+            // 
+            this.textBox37.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox37.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox37.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox37.Location = new System.Drawing.Point(4, 255);
+            this.textBox37.Name = "textBox37";
+            this.textBox37.Size = new System.Drawing.Size(56, 13);
+            this.textBox37.TabIndex = 117;
+            this.textBox37.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox37.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox36
+            // 
+            this.textBox36.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox36.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox36.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox36.Location = new System.Drawing.Point(510, 197);
+            this.textBox36.Name = "textBox36";
+            this.textBox36.Size = new System.Drawing.Size(57, 13);
+            this.textBox36.TabIndex = 116;
+            this.textBox36.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox36.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox35
+            // 
+            this.textBox35.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox35.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox35.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox35.Location = new System.Drawing.Point(445, 197);
+            this.textBox35.Name = "textBox35";
+            this.textBox35.Size = new System.Drawing.Size(56, 13);
+            this.textBox35.TabIndex = 115;
+            this.textBox35.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox35.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox34
+            // 
+            this.textBox34.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox34.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox34.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox34.Location = new System.Drawing.Point(382, 197);
+            this.textBox34.Name = "textBox34";
+            this.textBox34.Size = new System.Drawing.Size(56, 13);
+            this.textBox34.TabIndex = 114;
+            this.textBox34.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox34.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox33
+            // 
+            this.textBox33.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox33.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox33.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox33.Location = new System.Drawing.Point(319, 197);
+            this.textBox33.Name = "textBox33";
+            this.textBox33.Size = new System.Drawing.Size(56, 13);
+            this.textBox33.TabIndex = 113;
+            this.textBox33.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox33.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox32
+            // 
+            this.textBox32.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox32.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox32.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox32.Location = new System.Drawing.Point(256, 197);
+            this.textBox32.Name = "textBox32";
+            this.textBox32.Size = new System.Drawing.Size(56, 13);
+            this.textBox32.TabIndex = 112;
+            this.textBox32.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox32.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox31
+            // 
+            this.textBox31.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox31.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox31.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox31.Location = new System.Drawing.Point(193, 197);
+            this.textBox31.Name = "textBox31";
+            this.textBox31.Size = new System.Drawing.Size(56, 13);
+            this.textBox31.TabIndex = 111;
+            this.textBox31.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox31.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox30
+            // 
+            this.textBox30.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox30.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox30.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox30.Location = new System.Drawing.Point(130, 197);
+            this.textBox30.Name = "textBox30";
+            this.textBox30.Size = new System.Drawing.Size(56, 13);
+            this.textBox30.TabIndex = 110;
+            this.textBox30.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox30.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox29
+            // 
+            this.textBox29.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox29.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox29.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox29.Location = new System.Drawing.Point(67, 197);
+            this.textBox29.Name = "textBox29";
+            this.textBox29.Size = new System.Drawing.Size(56, 13);
+            this.textBox29.TabIndex = 109;
+            this.textBox29.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox29.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox28
+            // 
+            this.textBox28.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox28.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox28.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox28.Location = new System.Drawing.Point(4, 197);
+            this.textBox28.Name = "textBox28";
+            this.textBox28.Size = new System.Drawing.Size(56, 13);
+            this.textBox28.TabIndex = 108;
+            this.textBox28.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox28.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox27
+            // 
+            this.textBox27.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox27.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox27.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox27.Location = new System.Drawing.Point(510, 139);
+            this.textBox27.Name = "textBox27";
+            this.textBox27.Size = new System.Drawing.Size(57, 13);
+            this.textBox27.TabIndex = 107;
+            this.textBox27.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox27.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox26
+            // 
+            this.textBox26.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox26.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox26.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox26.Location = new System.Drawing.Point(445, 139);
+            this.textBox26.Name = "textBox26";
+            this.textBox26.Size = new System.Drawing.Size(56, 13);
+            this.textBox26.TabIndex = 106;
+            this.textBox26.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox26.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox25
+            // 
+            this.textBox25.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox25.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox25.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox25.Location = new System.Drawing.Point(382, 139);
+            this.textBox25.Name = "textBox25";
+            this.textBox25.Size = new System.Drawing.Size(56, 13);
+            this.textBox25.TabIndex = 105;
+            this.textBox25.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox25.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox24
+            // 
+            this.textBox24.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox24.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox24.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox24.Location = new System.Drawing.Point(319, 139);
+            this.textBox24.Name = "textBox24";
+            this.textBox24.Size = new System.Drawing.Size(56, 13);
+            this.textBox24.TabIndex = 104;
+            this.textBox24.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox24.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox23
+            // 
+            this.textBox23.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox23.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox23.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox23.Location = new System.Drawing.Point(256, 139);
+            this.textBox23.Name = "textBox23";
+            this.textBox23.Size = new System.Drawing.Size(56, 13);
+            this.textBox23.TabIndex = 103;
+            this.textBox23.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox23.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox22
+            // 
+            this.textBox22.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox22.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox22.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox22.Location = new System.Drawing.Point(193, 139);
+            this.textBox22.Name = "textBox22";
+            this.textBox22.Size = new System.Drawing.Size(56, 13);
+            this.textBox22.TabIndex = 102;
+            this.textBox22.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox22.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox21
+            // 
+            this.textBox21.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox21.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox21.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox21.Location = new System.Drawing.Point(130, 139);
+            this.textBox21.Name = "textBox21";
+            this.textBox21.Size = new System.Drawing.Size(56, 13);
+            this.textBox21.TabIndex = 101;
+            this.textBox21.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox21.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox20
+            // 
+            this.textBox20.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox20.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox20.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox20.Location = new System.Drawing.Point(67, 139);
+            this.textBox20.Name = "textBox20";
+            this.textBox20.Size = new System.Drawing.Size(56, 13);
+            this.textBox20.TabIndex = 100;
+            this.textBox20.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox20.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox19
+            // 
+            this.textBox19.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox19.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox19.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox19.Location = new System.Drawing.Point(4, 139);
+            this.textBox19.Name = "textBox19";
+            this.textBox19.Size = new System.Drawing.Size(56, 13);
+            this.textBox19.TabIndex = 99;
+            this.textBox19.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox19.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox18
+            // 
+            this.textBox18.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox18.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox18.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox18.Location = new System.Drawing.Point(510, 81);
+            this.textBox18.Name = "textBox18";
+            this.textBox18.Size = new System.Drawing.Size(57, 13);
+            this.textBox18.TabIndex = 98;
+            this.textBox18.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox18.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox17
+            // 
+            this.textBox17.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox17.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox17.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox17.Location = new System.Drawing.Point(445, 81);
+            this.textBox17.Name = "textBox17";
+            this.textBox17.Size = new System.Drawing.Size(56, 13);
+            this.textBox17.TabIndex = 97;
+            this.textBox17.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox17.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox16
+            // 
+            this.textBox16.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox16.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox16.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox16.Location = new System.Drawing.Point(382, 81);
+            this.textBox16.Name = "textBox16";
+            this.textBox16.Size = new System.Drawing.Size(56, 13);
+            this.textBox16.TabIndex = 96;
+            this.textBox16.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox16.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox15
+            // 
+            this.textBox15.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox15.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox15.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox15.Location = new System.Drawing.Point(319, 81);
+            this.textBox15.Name = "textBox15";
+            this.textBox15.Size = new System.Drawing.Size(56, 13);
+            this.textBox15.TabIndex = 95;
+            this.textBox15.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox15.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox14
+            // 
+            this.textBox14.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox14.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox14.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox14.Location = new System.Drawing.Point(256, 81);
+            this.textBox14.Name = "textBox14";
+            this.textBox14.Size = new System.Drawing.Size(56, 13);
+            this.textBox14.TabIndex = 94;
+            this.textBox14.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox14.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox13
+            // 
+            this.textBox13.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox13.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox13.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox13.Location = new System.Drawing.Point(193, 81);
+            this.textBox13.Name = "textBox13";
+            this.textBox13.Size = new System.Drawing.Size(56, 13);
+            this.textBox13.TabIndex = 93;
+            this.textBox13.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox13.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox12
+            // 
+            this.textBox12.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox12.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox12.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox12.Location = new System.Drawing.Point(130, 81);
+            this.textBox12.Name = "textBox12";
+            this.textBox12.Size = new System.Drawing.Size(56, 13);
+            this.textBox12.TabIndex = 92;
+            this.textBox12.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox12.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox11
+            // 
+            this.textBox11.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox11.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox11.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox11.Location = new System.Drawing.Point(67, 81);
+            this.textBox11.Name = "textBox11";
+            this.textBox11.Size = new System.Drawing.Size(56, 13);
+            this.textBox11.TabIndex = 91;
+            this.textBox11.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox11.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox10
+            // 
+            this.textBox10.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox10.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox10.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox10.Location = new System.Drawing.Point(4, 81);
+            this.textBox10.Name = "textBox10";
+            this.textBox10.Size = new System.Drawing.Size(56, 13);
+            this.textBox10.TabIndex = 90;
+            this.textBox10.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox10.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox9
+            // 
+            this.textBox9.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox9.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox9.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox9.Location = new System.Drawing.Point(510, 23);
+            this.textBox9.Name = "textBox9";
+            this.textBox9.Size = new System.Drawing.Size(57, 13);
+            this.textBox9.TabIndex = 89;
+            this.textBox9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox9.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox8
+            // 
+            this.textBox8.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox8.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox8.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox8.Location = new System.Drawing.Point(445, 23);
+            this.textBox8.Name = "textBox8";
+            this.textBox8.Size = new System.Drawing.Size(56, 13);
+            this.textBox8.TabIndex = 88;
+            this.textBox8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox8.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox7
+            // 
+            this.textBox7.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox7.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox7.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox7.Location = new System.Drawing.Point(382, 23);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(56, 13);
+            this.textBox7.TabIndex = 87;
+            this.textBox7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox7.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox6
+            // 
+            this.textBox6.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox6.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox6.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox6.Location = new System.Drawing.Point(319, 23);
+            this.textBox6.Name = "textBox6";
+            this.textBox6.Size = new System.Drawing.Size(56, 13);
+            this.textBox6.TabIndex = 86;
+            this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox6.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox5
+            // 
+            this.textBox5.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox5.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox5.Location = new System.Drawing.Point(256, 23);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(56, 13);
+            this.textBox5.TabIndex = 85;
+            this.textBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox5.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox4
+            // 
+            this.textBox4.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox4.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox4.Location = new System.Drawing.Point(193, 23);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(56, 13);
+            this.textBox4.TabIndex = 84;
+            this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox4.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox3
+            // 
+            this.textBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox3.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox3.Location = new System.Drawing.Point(130, 23);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(56, 13);
+            this.textBox3.TabIndex = 83;
+            this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox3.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox2
+            // 
+            this.textBox2.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox2.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox2.Location = new System.Drawing.Point(67, 23);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(56, 13);
+            this.textBox2.TabIndex = 82;
+            this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox2.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
+            // 
+            // textBox1
+            // 
+            this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBox1.BackColor = System.Drawing.SystemColors.Window;
+            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox1.Location = new System.Drawing.Point(4, 23);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(56, 13);
+            this.textBox1.TabIndex = 81;
+            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox1.Validating += new System.ComponentModel.CancelEventHandler(this.Validate_Text);
             // 
             // listView1
             // 
@@ -1447,87 +1286,87 @@
         private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.ColumnHeader columnHeader1;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
-        private System.Windows.Forms.Label label73;
-        private System.Windows.Forms.Label label74;
-        private System.Windows.Forms.Label label75;
-        private System.Windows.Forms.Label label76;
-        private System.Windows.Forms.Label label77;
-        private System.Windows.Forms.Label label78;
-        private System.Windows.Forms.Label label79;
-        private System.Windows.Forms.Label label80;
-        private System.Windows.Forms.Label label81;
-        private System.Windows.Forms.Label label64;
-        private System.Windows.Forms.Label label65;
-        private System.Windows.Forms.Label label66;
-        private System.Windows.Forms.Label label67;
-        private System.Windows.Forms.Label label68;
-        private System.Windows.Forms.Label label69;
-        private System.Windows.Forms.Label label70;
-        private System.Windows.Forms.Label label71;
-        private System.Windows.Forms.Label label72;
-        private System.Windows.Forms.Label label55;
-        private System.Windows.Forms.Label label56;
-        private System.Windows.Forms.Label label57;
-        private System.Windows.Forms.Label label58;
-        private System.Windows.Forms.Label label59;
-        private System.Windows.Forms.Label label60;
-        private System.Windows.Forms.Label label61;
-        private System.Windows.Forms.Label label62;
-        private System.Windows.Forms.Label label63;
-        private System.Windows.Forms.Label label46;
-        private System.Windows.Forms.Label label47;
-        private System.Windows.Forms.Label label48;
-        private System.Windows.Forms.Label label49;
-        private System.Windows.Forms.Label label50;
-        private System.Windows.Forms.Label label51;
-        private System.Windows.Forms.Label label52;
-        private System.Windows.Forms.Label label53;
-        private System.Windows.Forms.Label label54;
-        private System.Windows.Forms.Label label37;
-        private System.Windows.Forms.Label label38;
-        private System.Windows.Forms.Label label39;
-        private System.Windows.Forms.Label label40;
-        private System.Windows.Forms.Label label41;
-        private System.Windows.Forms.Label label42;
-        private System.Windows.Forms.Label label43;
-        private System.Windows.Forms.Label label44;
-        private System.Windows.Forms.Label label45;
-        private System.Windows.Forms.Label label28;
-        private System.Windows.Forms.Label label29;
-        private System.Windows.Forms.Label label30;
-        private System.Windows.Forms.Label label31;
-        private System.Windows.Forms.Label label32;
-        private System.Windows.Forms.Label label33;
-        private System.Windows.Forms.Label label34;
-        private System.Windows.Forms.Label label35;
-        private System.Windows.Forms.Label label36;
-        private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.Label label20;
-        private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.Label label23;
-        private System.Windows.Forms.Label label24;
-        private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox81;
+        private System.Windows.Forms.TextBox textBox80;
+        private System.Windows.Forms.TextBox textBox79;
+        private System.Windows.Forms.TextBox textBox78;
+        private System.Windows.Forms.TextBox textBox77;
+        private System.Windows.Forms.TextBox textBox76;
+        private System.Windows.Forms.TextBox textBox75;
+        private System.Windows.Forms.TextBox textBox74;
+        private System.Windows.Forms.TextBox textBox73;
+        private System.Windows.Forms.TextBox textBox72;
+        private System.Windows.Forms.TextBox textBox71;
+        private System.Windows.Forms.TextBox textBox70;
+        private System.Windows.Forms.TextBox textBox69;
+        private System.Windows.Forms.TextBox textBox68;
+        private System.Windows.Forms.TextBox textBox67;
+        private System.Windows.Forms.TextBox textBox66;
+        private System.Windows.Forms.TextBox textBox65;
+        private System.Windows.Forms.TextBox textBox64;
+        private System.Windows.Forms.TextBox textBox63;
+        private System.Windows.Forms.TextBox textBox62;
+        private System.Windows.Forms.TextBox textBox61;
+        private System.Windows.Forms.TextBox textBox60;
+        private System.Windows.Forms.TextBox textBox59;
+        private System.Windows.Forms.TextBox textBox58;
+        private System.Windows.Forms.TextBox textBox57;
+        private System.Windows.Forms.TextBox textBox56;
+        private System.Windows.Forms.TextBox textBox55;
+        private System.Windows.Forms.TextBox textBox54;
+        private System.Windows.Forms.TextBox textBox53;
+        private System.Windows.Forms.TextBox textBox52;
+        private System.Windows.Forms.TextBox textBox51;
+        private System.Windows.Forms.TextBox textBox50;
+        private System.Windows.Forms.TextBox textBox49;
+        private System.Windows.Forms.TextBox textBox48;
+        private System.Windows.Forms.TextBox textBox47;
+        private System.Windows.Forms.TextBox textBox46;
+        private System.Windows.Forms.TextBox textBox45;
+        private System.Windows.Forms.TextBox textBox44;
+        private System.Windows.Forms.TextBox textBox43;
+        private System.Windows.Forms.TextBox textBox42;
+        private System.Windows.Forms.TextBox textBox41;
+        private System.Windows.Forms.TextBox textBox40;
+        private System.Windows.Forms.TextBox textBox39;
+        private System.Windows.Forms.TextBox textBox38;
+        private System.Windows.Forms.TextBox textBox37;
+        private System.Windows.Forms.TextBox textBox36;
+        private System.Windows.Forms.TextBox textBox35;
+        private System.Windows.Forms.TextBox textBox34;
+        private System.Windows.Forms.TextBox textBox33;
+        private System.Windows.Forms.TextBox textBox32;
+        private System.Windows.Forms.TextBox textBox31;
+        private System.Windows.Forms.TextBox textBox30;
+        private System.Windows.Forms.TextBox textBox29;
+        private System.Windows.Forms.TextBox textBox28;
+        private System.Windows.Forms.TextBox textBox27;
+        private System.Windows.Forms.TextBox textBox26;
+        private System.Windows.Forms.TextBox textBox25;
+        private System.Windows.Forms.TextBox textBox24;
+        private System.Windows.Forms.TextBox textBox23;
+        private System.Windows.Forms.TextBox textBox22;
+        private System.Windows.Forms.TextBox textBox21;
+        private System.Windows.Forms.TextBox textBox20;
+        private System.Windows.Forms.TextBox textBox19;
+        private System.Windows.Forms.TextBox textBox18;
+        private System.Windows.Forms.TextBox textBox17;
+        private System.Windows.Forms.TextBox textBox16;
+        private System.Windows.Forms.TextBox textBox15;
+        private System.Windows.Forms.TextBox textBox14;
+        private System.Windows.Forms.TextBox textBox13;
+        private System.Windows.Forms.TextBox textBox12;
+        private System.Windows.Forms.TextBox textBox11;
+        private System.Windows.Forms.TextBox textBox10;
+        private System.Windows.Forms.TextBox textBox9;
+        private System.Windows.Forms.TextBox textBox8;
+        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textBox2;
     }
 }
 

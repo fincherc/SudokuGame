@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Linq;
 using System.Windows.Forms;
 
@@ -24,22 +25,23 @@ namespace SudokuGame
 
         private void AddSudoku(Sudoku sudoku)
         {
-            var labelEntry = 1;
+            var textBoxEntry = 1;
 
             for(int row = 0; row < sudoku.sudokuBoard.Length; row++)
             {
                 for(int column = 0; column < sudoku.sudokuBoard.Length; column++)
                 {
-                    Label label = Controls.Find($"label{labelEntry}", true).OfType<Label>().FirstOrDefault();
-                    label.Text = sudoku.sudokuBoard[row][column].ToString();
-                    labelEntry++;
+                    TextBox textBox = Controls.Find($"TextBox{textBoxEntry}", true).OfType<TextBox>().FirstOrDefault();
+                    textBox.Text = sudoku.sudokuBoard[row][column].ToString();
+
+                    if(textBox.Text != "")
+                        textBox.ReadOnly = true;
+                    else
+                        textBox.ReadOnly = false;
+
+                    textBoxEntry++;
                 }
             }
-        }
-
-        private void menuClose_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
         }
 
         private string showDifficultyDialogBox()
@@ -48,6 +50,24 @@ namespace SudokuGame
             difficultyForm.ShowDialog();
 
             return difficultyForm.SelectionMade;
+        }
+
+        private void Validate_Text(object sender, CancelEventArgs e)
+        {
+            TextBox tb = sender as TextBox;
+            if (tb != null)
+            {
+                int i;
+                if (int.TryParse(tb.Text, out i))
+                {
+                    if (i >= 1 && i <= 9)
+                        return;
+                }
+                else if(tb.Text == "")
+                    return;
+            }
+            MessageBox.Show("Please select a number and one that's 1 and 9");
+            e.Cancel = true;
         }
     }
 }

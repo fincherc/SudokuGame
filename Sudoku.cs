@@ -29,10 +29,8 @@ namespace SudokuGame
 
             sudokuGenerator.FillGameBoard(sudokuBoard);
             sudokuGenerator.BlankOutSquares(sudokuBoard, gameDifficulty);
-            
 
             //Next steps:
-            //Add ability to adjust entries for blanked spaces
             //Add functionality to solve the board
             //Add functionality to see the moves played in the side window
         }
